@@ -1,24 +1,8 @@
-# README
+# Bienvenu dans le blog des familles !
+Ruby version : 2.5.1
+Rails vers : 5.2.1
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Contenu
+Une DB contenant des users qui commentent,likent et creent des articles qui ont elles meme des categories. Au top, skyblog n'a qu'a se tenir!
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Courage jeune correcteur !
